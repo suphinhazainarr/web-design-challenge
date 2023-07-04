@@ -1,0 +1,31 @@
+.header{
+    width: 100%;
+    background-color: orange;
+    height: 150px;
+
+}
+.left-section{
+    width: 200px;
+    float: left;
+    height: 400px;
+    background-color: pink ;
+}
+.rigth-section{
+    width: 200px;
+    float: right;
+    height: 400px;
+    background-color: pink ;
+}
+.footer{
+    height: 150px;
+    width:100%;
+    background-color: black;
+    
+
+}
+.content{
+    height: 400px;
+}
+body{
+    margin: 0;
+}
