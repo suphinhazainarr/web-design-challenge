@@ -82,3 +82,42 @@ body{
     font-weight: bold;
     font-size: 21px;
 }
+.heading{
+    font-weight: bold;
+
+}
+.form-box{
+
+    height: 20px;
+    width: 200px;
+    border-radius: 4px;
+    float: left;
+    margin-right: 10px;
+
+}
+.mobile-email{
+    height: 20px;
+    width: 417.5px;
+    border-radius: 4px;
+    float: left;
+    margin-top: 13px;
+
+
+
+}
+.birthday
+{
+color: grey;
+}
+.date-birthday{
+    margin-top: 10px;
+    border-radius: 4px;
+    margin-right: 5px;
+}
+.gender{
+    color: grey;
+}
+.gender-table{
+    float: left;
+    margin-top: 0px;
+    }
